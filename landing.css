@@ -12,12 +12,13 @@ body{
     background: url(img/main.jpg);
     background-position: center;
     background-size: cover;
+    position: relative;
     
 }
 .container{
-    position: relative;
+    position: absolute;
     left: 300px;
-    top: 250px;
+    top: 200px;
     width: 40%;
     background: rgba(88, 90, 92, 0.8);
     padding: 10px;
